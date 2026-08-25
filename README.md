@@ -43,7 +43,7 @@ https://taskflow-backend-2yig.onrender.com
 ![filters](screenshots/filters.png)
 ### Profile
 ![profile](screenshots/profile.png)
-### Responsive
+### Mobile View
 ![responsive](screenshots/responsive.png)
 
 ## 🚀 Getting Started

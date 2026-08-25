@@ -33,15 +33,15 @@ https://taskflow-backend-2yig.onrender.com
 - 📱 Fully responsive design
 
 ## 📸 Screenshots
-### Login
+### Login Page
 ![login](screenshots/login.png)
-### Register
+### Register Page
 ![register](screenshots/register.png)
-### Dashboard
+### Dashboard Page
 ![Dashboard](screenshots/dashboard.png)
 ### Filters
 ![filters](screenshots/filters.png)
-### Profile
+### Profile Page
 ![profile](screenshots/profile.png)
 ### Mobile View
 ![responsive](screenshots/responsive.png)

@@ -59,9 +59,8 @@ npm run dev
 ## 🔮 Future Features
 - Email notifications for due tasks
 - Forgot password with email reset
-- Task sharing between users
+- Daily streak tracking for consistency
 - Productivity charts
-- Drag and drop reordering
 
 ## 👩‍💻 Author
 GitHub: https://github.com/Aswathy128

@@ -33,7 +33,8 @@ https://taskflow-backend-2yig.onrender.com
 - 📱 Fully responsive design
 
 ## 📸 Screenshots
-(Add screenshots here!)
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ## 🚀 Getting Started
 

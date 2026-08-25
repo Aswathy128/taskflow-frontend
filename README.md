@@ -1,16 +1,67 @@
-# React + Vite
+# TaskFlow — Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full stack task management application built with MERN stack.
+Manage your tasks efficiently with priorities, categories and due dates!
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+https://taskflow-frontend-app.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔗 Backend API
+https://taskflow-backend-2yig.onrender.com
 
-## React Compiler
+## 🛠️ Technologies Used
+- React.js
+- React Router DOM
+- Tailwind CSS
+- Axios
+- Context API
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- 🔐 JWT Authentication — Register and Login
+- ✅ Add, Edit, Delete tasks
+- 🔄 Toggle Task Status (Pending / Completed)
+- 🎯 Priority levels — High, Medium, Low
+- 📂 Categories — Study, Personal, Health, Career, Work, Other
+- 📅 Due dates with overdue alerts
+- 🔍 Search tasks by title — debounced
+- 🔽 Filter by status, priority, category
+- ↕️ Sort Tasks by- Newest First, Due Date, Priority
+- 📊 Dashboard with stats and progress bar
+- 📅 Upcoming tasks this week
+- 👤 Profile page — update name, change password
+- 📱 Fully responsive design
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
+(Add screenshots here!)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Installation
+
+```bash
+git clone https://github.com/Aswathy128/taskflow-frontend.git
+cd taskflow-frontend
+npm install
+```
+
+### Environment Variables
+Create .env file:
+```env
+VITE_API_URL=http://localhost:5000/api
+```
+
+### Run
+```bash
+npm run dev
+```
+
+## 🔮 Future Features
+- Email notifications for due tasks
+- Forgot password with email reset
+- Task sharing between users
+- Productivity charts
+- Drag and drop reordering
+
+## 👩‍💻 Author
+GitHub: https://github.com/Aswathy128
